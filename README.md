@@ -2,7 +2,7 @@
 
 ## 项目说明
 本项目使用Vue2 + Vuetify框架进行开发。<br/>
-在线网页链接：[Gitee Page](https://yeeeck.gitee.io/ark-hr-tool)
+在线网页链接：[Gitee Page](https://yeeeck.gitee.io/ark-hr-tool) [Github Page](https://yeeeck.github.io/ark-hr-tool/)
 
 ### 起因
 其实不是很想写这个，因为网上说实话有很多现成的，比如 Bigfun、bilibili wiki 以及 PRTS 的。<br/>

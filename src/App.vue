@@ -24,7 +24,7 @@
           </svg>
         </v-btn>
 
-        <v-btn icon>
+        <v-btn icon @click="startGithub">
           <svg
             t="1652374350657"
             class="icon"
@@ -65,6 +65,9 @@ export default {
   methods: {
     startGitee() {
       window.open("https://gitee.com/YeEeck/ark-hr-tool", "_blank");
+    },
+    startGithub() {
+      window.open("https://github.com/YeEeck/ark-hr-tool", "_blank");
     },
   },
 };
