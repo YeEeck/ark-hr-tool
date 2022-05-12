@@ -108,10 +108,15 @@ export default {
         if (newTemp.operators.length != 0) {
           let minLevel = 10;
           newTemp.operators.forEach((operator) => {
-            if (operator.level < minLevel) {
-              minLevel = operator.level;
+            if (operator.level != 1) {
+              if (operator.level < minLevel) {
+                minLevel = operator.level;
+              }
             }
           });
+          if (minLevel == 10) {
+            minLevel = 3;
+          }
           newTemp.minLevel = minLevel;
           this.temp.push(newTemp);
         }
