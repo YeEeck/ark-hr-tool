@@ -1,17 +1,17 @@
 # 明日方舟公开招募计算器
 
 ## 项目说明
-本项目使用Vue2 + Vuetify框架进行开发。
+本项目使用Vue2 + Vuetify框架进行开发。<br/>
 在线网页链接：[Gitee Page](https://yeeeck.gitee.io/ark-hr-tool)
 
 ### 起因
-其实不是很想写这个，因为网上说实话有很多现成的，比如 Bigfun、bilibili wiki 以及 PRTS 的。
-但是各自都有些我用着很不爽的缺点。
+其实不是很想写这个，因为网上说实话有很多现成的，比如 Bigfun、bilibili wiki 以及 PRTS 的。<br/>
+但是各自都有些我用着很不爽的缺点。<br/>
 想想还是自己重新写一个吧。
 
 ### 主要特性
-1.移动端与PC双端UI适配。
-2.排序结果更加人性化，即以词条组合结果中最低干员的星级降序排列。
+1.移动端与PC双端UI适配。<br/>
+2.排序结果更加人性化，即以词条组合结果中最低干员的星级降序排列。<br/>
 3.支持用户手动添加干员信息，手动适配以后的更新。当然这不代表以后我就不更新了。(很快上线)
 
 ### 关于其他项目让我难以忍受的缺点
@@ -33,13 +33,13 @@
 This project was developed using the Vue2 + Vuetify framework.
 
 ### The genesis
-I didn't really want to write this because there are honestly a lot of ready-made ones on the web, such as Bigfun, bilibili wiki and PRTS.
-But each of them has some drawbacks that I find unpleasant to use.
+I didn't really want to write this because there are honestly a lot of ready-made ones on the web, such as Bigfun, bilibili wiki and PRTS.<br/>
+But each of them has some drawbacks that I find unpleasant to use.<br/>
 I thought I'd write a new one myself.
 
 ### Main features
-1. Dual UI adaptations for mobile and PC.
-2. Sorting results are more user-friendly, i.e. in descending order by the star rating of the lowest operator in the word combination results.
+1. Dual UI adaptations for mobile and PC.<br/>
+2. Sorting results are more user-friendly, i.e. in descending order by the star rating of the lowest operator in the word combination results.<br/>
 3. Support users to manually add operator information and manually adapt to future updates. Of course this doesn't mean I won't update it in the future. (Coming online soon)
 
 ### About other projects that I can't stand
