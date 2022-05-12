@@ -135,15 +135,15 @@ export default {
     },
     getOperatorBtnColor(level) {
       if (level == 6) {
-        return "#E04D01";
+        return "#ec7624";
       } else if (level == 5) {
-        return "#F8B400";
+        return "#c99200";
       } else if (level == 4) {
-        return "#68A7AD";
+        return "#907790";
       } else if (level == 3) {
-        return "#83BD75";
+        return "#68A7AD";
       } else if (level == 2) {
-        return "#A1E3D8";
+        return "#83BD75";
       } else if (level == 1) {
         return "#000000";
       }
